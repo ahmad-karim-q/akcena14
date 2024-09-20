@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @akcena14
-- 👀 I’m interested in coding(idk first sem student)
+- 👋 Hi, I’m ahmad-karim
+- 👀 I’m interested in learning and am currently studying devops
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on various projects which help me further develop my skills
 - 📫 How to reach me qureshi.ahmad.karim@gmail.com
 
 <!---
